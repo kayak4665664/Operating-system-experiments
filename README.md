@@ -1,6 +1,6 @@
 # Operating-system-experiments
 These programs are experiments in the Operating System course of the Computer Department of North China University of Technology.  
-这些程序是北方工业大学操作系统实验。
+这些程序是北方工业大学计算机系操作系统实验。
 
 Time: 2020 Fall Semester
 
